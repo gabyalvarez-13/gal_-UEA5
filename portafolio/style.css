@@ -1,0 +1,28 @@
+body {
+    background-color: #de98f2;
+    color:#c9ea5d;
+    font-size: 30px;
+}
+h1{
+    color:#a380ee;
+}
+P{
+    color:#a853f3;
+}
+div{
+    background-color: rgb(81, 203, 255);
+    padding:10px;
+
+   border-style:dotted;
+   border-width: 12px;
+    border-color: rgb(255, 236, 211);
+
+    margin:100px;
+
+  border-radius: 12px;
+ 
+}
+img {
+  border-radius: 50%;
+}
+   
