@@ -15,14 +15,17 @@ div{
 
    border-style:dotted;
    border-width: 12px;
-    border-color: rgb(255, 236, 211);
+   border-color: rgb(255, 236, 211);
 
     margin:100px;
 
   border-radius: 12px;
  
+} 
+.imgR{
+    border-radius: 20%;
 }
-img {
-  border-radius: 50%;
+
+a{
+    color: #c9ea5d;
 }
-   

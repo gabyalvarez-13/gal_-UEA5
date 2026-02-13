@@ -1,0 +1,21 @@
+.container{
+    display:flex;   
+    background-color: #869fb7;
+    flex-direction:row;
+    /*flex-wrap: wrap;*/
+}
+
+.container div{
+    background-color:#ccabfe ;
+    margin:10px ;
+    padding:10px ;
+    font-size:20px;
+}
+img{
+  width:100%;  
+}
+@media(max-width: 600px){
+    .container{
+        flex-direction: column;
+    }
+}
