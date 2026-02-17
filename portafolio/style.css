@@ -11,19 +11,25 @@ P{
 }
 div{
     background-color: rgb(81, 203, 255);
-    padding:10px;
-
+    padding:5px;
    border-style:dotted;
    border-width: 12px;
    border-color: rgb(255, 236, 211);
-
     margin:100px;
-
   border-radius: 12px;
+
  
 } 
 .imgR{
     border-radius: 20%;
+}
+.fotos{
+    background-color: #f1c95a;
+    border-style:none;
+    margin:0px;
+    padding:0px;
+    display: flex;
+    justify-content:right;
 }
 
 a{
