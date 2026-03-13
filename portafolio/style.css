@@ -1,13 +1,13 @@
 body {
-    background-color: #de98f2;
+    background-color: #c136e7;
     color:#c9ea5d;
     font-size: 30px;
 }
 h1{
-    color:#a380ee;
+    color:#4713b8;
 }
 P{
-    color:#a853f3;
+    color:#0a0311;
 }
 div{
     background-color: rgb(81, 203, 255);
@@ -24,12 +24,12 @@ div{
     border-radius: 20%;
 }
 .fotos{
-    background-color: #f1c95a;
+    background-color: #8b8165;
     border-style:none;
-    margin:0px;
-    padding:0px;
+    margin:10px;
+    padding:20px;
     display: flex;
-    justify-content:right;
+    justify-content:center;
 }
 
 a{
