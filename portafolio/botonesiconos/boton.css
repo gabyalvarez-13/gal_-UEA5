@@ -1,0 +1,26 @@
+body {  
+    background-color: bisque;
+    color:#000000;
+}
+header{
+   background-color: #77dd77; 
+}
+nav{
+    background-color: #fdfd96;
+    padding:2px;
+}
+div{
+    background-color: #84b6f4;
+    padding:2px;
+}
+footer{
+    background-color:#fdcae1;
+      padding:2px;
+}
+.fa{
+    color:#a68069;
+    font-size:70px;
+}
+.fa-facebook{
+  color:#5086c1;  
+}
