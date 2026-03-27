@@ -6,7 +6,7 @@ body {
 h1{
     color:#9e7ea4;
       padding:6px;
-   border-style:outset;
+   border-style: groove;
    border-width: 10px;
 }
 P{
@@ -39,8 +39,37 @@ a{
     color: #c9ea5d;
 }
 .divGral{
-    background-color: #da7fe9;
+    background-color: #79adea;
     border-style: none;
     margin:0px;
 
 }
+
+.container
+{
+  display: flex;
+    background-color: #869fb7;
+    flex-direction:row;
+ border-style: none;
+ 
+}
+
+.container div{
+    background-color:#ccabfe ;
+    margin:15px ;
+
+}
+.videoyt{
+  width:30%;
+  height:10%;  
+}
+@media(max-width: 100px){
+    .container{
+        flex-direction: column;
+    }
+}
+.videoyt{
+  border-style: none;
+
+}
+
